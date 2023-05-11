@@ -40,3 +40,4 @@ jobs:
         USER_1_TOKEN: ${{ secrets.MY_TOKEN }}
         USER_2_ID: ${{ secrets.YS_TOKEN_ID }}
         USER_2_TOKEN: ${{ secrets.YS_TOKEN }}
+        WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
